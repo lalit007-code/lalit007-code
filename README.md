@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently studying DevOps<br>👯 I’m looking to collaborate on open-source project<br>🤝 I’m looking for remote or non-remote full-time, part-time, intern <br>💬 Ask me about MERN, Nextjs, and web3<br>⚡For fun Games, Movies 
+🔭 I’m currently learning and working on nextjs projects<br> <br>👯 I’m looking to collaborate on open-source fullstack project<br>🤝 I’m looking for remote or non-remote full-time, part-time, intern <br>💬 Ask me about anything related to fullstack projects, I will try best to answer it<br>⚡My learning is keep sharpening skills and help others 
 
 
 ## 🌐 Socials:
